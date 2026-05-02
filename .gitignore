@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+.env
+/node_modules
+package-lock.json
+=======
 # Logs
 logs
 *.log
@@ -141,3 +146,4 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+>>>>>>> 1ca6956cee9fd9e0dc64809dbd65e4b257300ae1
