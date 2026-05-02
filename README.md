@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [x] A home page links to signup and login, if not logged in;
     and links to members and signout, if logged in.
 
@@ -19,3 +20,6 @@ Sessions expire after 1 hour.
 [x] All secrets, encryption keys, database passwords are stored in a .env file.
 
 [x] The .env file is NOT in your git repo
+=======
+# 2537_assignment_1_Mosdell_Zach
+>>>>>>> 1ca6956cee9fd9e0dc64809dbd65e4b257300ae1
